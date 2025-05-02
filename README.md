@@ -1,18 +1,14 @@
 # Face-Mask-Detection-Using-OpenCV
 ---------------------------------------------------------------------
-CSM D2 TEAM-08
+CSM D1 TEAM-13
 
 **TEAM DETAILS**
 --------------------------------------------------------------------
-> GALLA DURGA PRASAD (TL)
-
-> TIRUMALASETTI SAI TEJA
-
-> CHINTHALAPUDI MAHESH
-
-> VAKADA SATYANARAYANA SAI
-
-> PANCHADI RAMAKRISHNA
+>EDHUM JYOTHI KUMAR	(TL)
+BORUSU SYAM LOKESH
+BHUBATTULA VIGNESH
+YANADAMURI SAI SANTHOSH KUMAR
+KANNURI SRINIVASA ABHIRAM
 
 -------------------------------------------------------------------
 Introduction
