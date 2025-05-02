@@ -4,10 +4,10 @@ CSM D1 TEAM-13
 
 **TEAM DETAILS**
 --------------------------------------------------------------------
->EDHUM JYOTHI KUMAR	(TL)
-BORUSU SYAM LOKESH
-BHUBATTULA VIGNESH
-YANADAMURI SAI SANTHOSH KUMAR
+>EDHUM JYOTHI KUMAR	(TL) |
+BORUSU SYAM LOKESH |
+BHUBATTULA VIGNESH |
+YANADAMURI SAI SANTHOSH KUMAR |
 KANNURI SRINIVASA ABHIRAM
 
 -------------------------------------------------------------------
